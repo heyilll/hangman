@@ -10,14 +10,14 @@ Download repo and extract zip
 Run 'python milestone_5.py' in the repo folder with a python interpreter to begin
 
 ## File structure
-$ tree
 .
-├── hangman 
+├── README.md
+├── hangman
 │   └── hangman_Template.py
 ├── milestone_2.py
 ├── milestone_3.py
 ├── milestone_4.py
-├── milestone_5.py
-└── README.md
+└── milestone_5.py
 
+1 directory, 6 files
 ## License
